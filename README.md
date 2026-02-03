@@ -1,5 +1,5 @@
 <img align="left" alt="Java" width="50" style="padding-right:20x;padding-top:20px"  src="https://slackmojis.com/emojis/88611-pepioq/download"/><h1 align="Left">Hi 👋, I'm Aakash Joshi</h1>
-<h3 align="left">🚀 Software engineerwith a passion for crafting dynamic, user-centered apps that enhance experiences and solve challenges.</h3>
+<h3 align="left">🚀 Software engineer with a passion for crafting dynamic, user-centered apps that enhance experiences and solve challenges.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashjoshi1999&label=Profile%20views&color=0e75b6&style=flat" alt="akashjoshi1999" /> </p>
 
