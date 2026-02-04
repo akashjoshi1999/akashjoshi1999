@@ -5,8 +5,9 @@
 
 <div>
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhldDhpY29lYjZ3eXJzYTlnM3E5ODdqbmRsZ2E3cjR4cTZramhxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **Next Js & Mongo DB**
+</div>
+<div>
+  - 🌱 I’m currently learning **Next Js & Mongo DB**
 
 - 👨‍💻 Chekout my [Portfolio](https://portfolio-87bd3.web.app/)
 
@@ -14,7 +15,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FqnLmKM8N05ATFBpg9I8s2rbRmbg57t4/view?usp=sharing)
 </div>
-
 <p align="left"> <a href="https://x.com/AakashJ22513213" target="blank"><img src="https://img.shields.io/twitter/follow/Aakash Joshi?logo=twitter&style=for-the-badge" alt="akashjoshi1999" /></a> </p>
 
 
