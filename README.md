@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **akashjoshi61099@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BSesFsiOejwA2NSqQNNlaz6lISgxF_Ec/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pzR0rKzPnALAgLq3_iRe5MUjPUcQi8yg/view?usp=sharing)
 </div>
 <p align="left"> <a href="https://x.com/AakashJ22513213" target="blank"><img src="https://img.shields.io/twitter/follow/Aakash Joshi?logo=twitter&style=for-the-badge" alt="akashjoshi1999" /></a> </p>
 
