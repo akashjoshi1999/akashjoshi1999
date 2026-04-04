@@ -6,7 +6,7 @@
 <div>
 </div>
 <div>
-  - 🌱 I’m currently learning Next Js & Mongo DB
+🌱 I’m currently learning Next Js & Mongo DB
 
 - 👨‍💻 Chekout my [Portfolio](https://aakash-joshi.vercel.app/)
 
