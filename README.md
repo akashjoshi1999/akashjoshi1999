@@ -8,7 +8,7 @@
 <div>
   - 🌱 I’m currently learning Next Js & Mongo DB
 
-- 👨‍💻 Chekout my [Portfolio](https://portfolio-87bd3.web.app/)
+- 👨‍💻 Chekout my [Portfolio]([https://portfolio-87bd3.web.app/](https://aakash-joshi.vercel.app/))
 
 - 📫 How to reach me **akashjoshi61099@gmail.com**
 
